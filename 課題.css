@@ -16,16 +16,12 @@ header {
 main {
 
   width: 90%;
-  margin: 0px auto;
+  margin: 0px auto 30px;
 
   display: flex;
 
 }
 
-.Box-a{
-  margin-bottom: 30px;
-
-}
 
 .box{
   width: 100%;
